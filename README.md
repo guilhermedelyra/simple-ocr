@@ -64,5 +64,7 @@ python parse_cnh.py
 references:
 
 https://tika.apache.org/
+
 https://cwiki.apache.org/confluence/display/tika/TikaOCR
+
 https://medium.com/@masreis/text-extraction-and-ocr-with-apache-tika-302464895e5f
